@@ -1,2 +1,2 @@
-# Sistema-Cardapio-Semanal-
+# Sistema-Cardapio-Semanal
 Aplicação Web para Planejamento Semanal de Refeições 
