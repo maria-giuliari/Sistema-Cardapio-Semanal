@@ -55,30 +55,35 @@ A aplicação visa:
 ---
 ### Funcionalidades Principais: 
 
-1. Entrada de Dados e Preferências do Usuário: 
-O usuário informa suas condições e preferências por meio de um formulário, incluindo: 
-* **Perfil de Custo:** escolha entre econômico, moderado ou caro.
-* **Tempo Disponível:** tempo médio de preparo.
-* **Nível de Esforço:** escala de 1 a 5, representando a complexidade do preparo.
-* **Inventário Local:** lista de ingredientes já disponíveis em casa.
+1. **Entrada de Dados e Preferências do Usuário:** 
+    O usuário informa suas condições e preferências por meio de um formulário, incluindo: 
+    * **Perfil de Custo:** escolha entre econômico, moderado ou caro.
+    * **Tempo Disponível:** tempo médio de preparo.
+    * **Nível de Esforço:** escala de 1 a 5, representando a complexidade do preparo.
+    * **Inventário Local:** lista de ingredientes já disponíveis em casa.
 
-2. Geração do Cardápio Semanal: 
-O sistema processa as informações informadas e gera automaticamente um cardápio semanal. 
-Esta etapa contempla:  
-* Seleção de receitas compatíveis com os critérios. 
-* Redução de repetição de refeições. 
-* Prioridade para ingredientes disponíveis.  
-* Opção de reaproveitar o jantar como almoço do dia seguinte, facilitando a rotina.
-* Opção de substituição de refeições. 
+2. **Geração do Cardápio Semanal:** 
+    O sistema processa as informações informadas e gera automaticamente um cardápio semanal. 
+    Esta etapa contempla:  
+    * Seleção de receitas compatíveis com os critérios. 
+    * Redução de repetição de refeições. 
+    * Prioridade para ingredientes disponíveis.  
+    * Opção de reaproveitar o jantar como almoço do dia seguinte, facilitando a rotina.
+    * Opção de substituição de refeições. 
 
-3. Lista de Compras Automática: 
-Após a definição do cardápio semanal: 
-* Consolidação dos ingredientes necessários. 
-* Remoção dos itens já disponíveis. 
-* Organização por categorias para facilitar compras. 
+3. **Lista de Compras Automática:** 
+    Após a definição do cardápio semanal: 
+    * Consolidação dos ingredientes necessários. 
+    * Remoção dos itens já disponíveis. 
+    * Organização por categorias para facilitar compras. 
 
 ---
 ### Justificativa: 
 O projeto surge a partir da identificação de dificuldades comuns no cotidiano durante o planejamento alimentar, como falta de tempo, indecisão sobre o que cozinhar e desperdício de alimentos. 
 
 A proposta busca oferecer uma solução prática e acessível, auxiliando usuários a organizarem melhor sua rotina alimentar e reduzirem impactos financeiros e desperdícios. 
+
+---
+### Status do Projeto: 
+
+Em etapa de planejamento. 
