@@ -30,10 +30,10 @@ O sistema busca facilitar o processo de decisão sobre o que cozinhar, promovend
 Permitir que o usuário organize sua alimentação semanal de forma automatizada, otimizando o uso de ingredientes e respeitando seus limites de tempo e orçamento. 
 A aplicação visa: 
 * Montar automaticamente cardápios semanais, com base em: 
-      * Tempo disponível.
-      * Orçamento.
-      * Nível de esforço necessário. 
-      * Ingredientes disponíveis em casa.
+     * Tempo disponível.
+     * Orçamento.
+     * Nível de esforço necessário. 
+     * Ingredientes disponíveis em casa.
 * Reduzir desperdício de alimentos, priorizado o reaproveitamento de ingredientes.
 * Evitar repetição excessiva de refeições ao longo da semana.
 * Tornar a ida ao mercado mais organizada com a geração automática de listas de compras.
