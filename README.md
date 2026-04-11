@@ -39,3 +39,27 @@ A aplicação visa:
 * Tornar a ida ao mercado mais organizada com a geração automática de listas de compras.
 * Oferecer sugestões adicionais de refeições utilizando IA, quando solicitado pelo usuário. 
 
+---
+### Funcionalidades Principais: 
+
+1. Entrada de Dados e Preferências do Usuário: 
+O usuário informa suas condições e preferências por meio de um formulário, incluindo: 
+* **Perfil de Custo:** escolha entre níveis (econômico, moderado ou caro), utilizado para filtrar as receitas compatíveis com o orçamento.
+* **Tempo Disponível:** tempo médio para preparo de cada refeição.
+* **Nível de Esforço:** escala de 1 a 5, representando a complexidade do preparo (onde 1 é algo muito simples, e 5 exige técnicas mais elaboradas).
+* **Inventário Local:** lista de ingredientes já disponíveis em casa, utilizada para priorização e redução de desperdício.
+
+2. Geração do Cardápio Semanal: 
+O sistema processa as informações informadas e gera automaticamente um cardápio semanal, utilizando uma lógica baseada em regras e heurísticas. 
+Esta etapa contempla:  
+* **Seleção Inteligente:** filtragem de receitas compatíveis com os critérios de tempo, custo e esforço definidos.
+* **Diversidade de Refeições:** tentativa de evitar repetição de pratos ao longo da semana.
+* **Aproveitamento de Ingredientes:** priorização de receitas que utilizem itens já disponíveis no inventário do usuário.
+* **Logística de Sobras (Marmitas):** opção de reutilizar o jantar como almoço do dia seguinte, facilitando a rotina.
+* **Troca Dinâmica:** possibilidade de substituir uma refeição sugerida por outra opção válida dentro dos mesmos critérios. 
+
+3. Lista de Compras Automática: 
+Após a definição do cardápio semanal: 
+* O sistema consolida todos os itens necessários para as receitas selecionadas.
+* **Subtração de Inventário:** ingredientes que o usuário informou já ter em casa são removidos da lista.
+* **Agrupamento:** organiza os itens por categoria para facilitar a experiência de compra no supermercado. 
