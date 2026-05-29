@@ -29,6 +29,7 @@ O sistema busca facilitar a tomada de decisão sobre o que cozinhar, promovendo 
 ### Gestão do Projeto: 
 
 As ferramentas de gestão e acompanhamento do projeto serão definidas nas próximas etapas. 
+* [Link Figma](https://www.figma.com/design/TY2v00TobwPILlhHHYt8Vk/planejamento_refeicoes?node-id=0-1&p=f&t=D3AcjVDb5OpjlhS0-0)
 
 ---
 ### Objetivo da Aplicação: 
